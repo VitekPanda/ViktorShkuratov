@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ViktorShkuratov</string>
+    <string name="url">http://phisix-api3.appspot.com/stocks.json</string>
+    <string name="refresh">Обновить</string>
+    <string name="error_internet">Необходимо интернет подключение!</string>
+</resources>
